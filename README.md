@@ -1,19 +1,25 @@
 # Image-Slider
+
 🌈 Smart Image Slider
 
-A clean and responsive image slider that lets you browse, add, and auto-play images with smooth transitions. It supports custom captions, dynamic slide updates, simple navigation controls, and works perfectly across all screen sizes.
+A responsive and customizable image slider designed to showcase images with smooth transitions and easy interaction.
 
-Features:
+✨ Key Highlights
 
-Responsive image display
+Responsive Design
+Automatically adjusts to different screen sizes, keeping images clean, centered, and visually balanced on both mobile and desktop.
 
-Next/Previous navigation
+Simple Slide Navigation
+Move between images using intuitive Next/Previous buttons, with clear handling for the first and last slides.
 
-Add your own images & captions
+Add Your Own Images
+Easily insert new images by pasting a URL and adding a caption. The slider updates instantly without refreshing the page.
 
-Auto-play mode with smooth cycling
+Smooth Auto-Play Mode
+Enjoy hands-free viewing with a built-in auto-play feature that cycles through images at a fixed interval.
 
-Minimal and easy to customize
+Live Captions & Slide Count
+Captions update automatically with each slide, along with a counter that helps users track their viewing progress.
 
-Usage:
-Open index.html in a browser, click Next/Previous to navigate, use the input box to add new slides, and enable auto-play for automatic rotation.
+Lightweight & Easy to Customize
+Clean structure makes it simple to adjust image size, playback speed, layout, or styling to match your project needs.
